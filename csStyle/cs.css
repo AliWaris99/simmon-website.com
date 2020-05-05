@@ -1,0 +1,310 @@
+*{font-family: sans-serif;
+          
+    padding: 0%;
+    margin: 0%;
+}
+.one{background-color: rgb(84, 129, 202);
+    height: 20px;
+
+}
+.one li{
+    font-size: medium;
+    list-style: none;
+    display: inline-flex;
+    padding-top: 90px;
+    border: transparent solid white;
+    margin: 5px;
+    margin-left: 20px;
+    
+}
+.one li a{
+    text-decoration: none;
+    color: white;
+}
+.tab1{
+background-color: rgb(84, 129, 202);
+text-align: center;
+height: 150px;
+
+
+}
+.tab1 li{
+list-style: none; 
+}
+.tab1 li a{
+
+text-decoration: none;
+color: white;
+}
+
+.tab1 :hover{
+      
+      color: rgb(224, 224, 224);
+}
+ .th1{
+background-color: rgb(84, 129, 202);
+border-color: rgb(234, 236, 240);
+width: 80px;
+height: 30px;
+margin-top: 0px;
+border-radius: 3px;
+margin-left: 850px;
+color: rgb(243, 235, 235);
+
+}
+.th2{
+    background-color: rgb(84, 129, 202);
+border-color: rgb(234, 236, 240);
+width: 80px;
+height: 30px;
+margin-top: -30px;
+border-radius: 3px;
+margin-left: 800px;
+color: rgb(243, 235, 235);
+float: left;
+
+}
+
+.h1_1{
+    margin-left: 200px;
+font-size: 5em;
+color: white;
+}
+.tab1 a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 265px;
+}
+.tab2{
+    width: 100%;
+
+ background-color: rgb(6, 44, 93);
+ height: 10;
+font-size: 14pt;
+line-height: 10px;
+ 
+ 
+}
+.tab2 ul li{
+    border: 10px white;
+     list-style: none;
+     display: inline-flex;
+
+    
+     
+}
+
+.tab2 li a{
+     
+     color: white;
+     padding: 30px;
+     text-decoration: none;
+     
+    
+}
+
+.hov, .tab2 li :hover {
+background-color: rgb(0, 4, 8);
+
+        
+        
+}          
+
+
+.img{
+    margin-left: 40px;
+margin-top: 80px;
+}
+
+.txtgr{
+background-color: rgb(109, 146, 8);
+font-size: 20px;
+margin-top: 35px;
+margin-left: 40px;
+height: 130px;
+line-height: 130px;
+color: white;
+}
+.h121{margin-left: 30px;}
+.t1
+
+ {text-align: center;
+    margin-top: -140px;
+font-size: 15px;    
+    margin-left:395px;
+    }
+    .t2{text-align: center;
+        margin-top: -105px;
+font-size: 15px;    
+        
+        margin-left:305px;
+      }
+
+.txtun{
+background-color:rgb(238, 234, 234);
+font-size: 14px;
+padding-top: 35px;
+padding-left: 25px;
+padding-bottom: 100px;
+width: 270px;
+height: 140px;
+margin-left: 49px;
+color: dodgerblue;
+
+}
+
+.txtgra{
+background-color:rgb(238, 234, 234);
+font-size: 14px;
+padding-top: 35px;
+padding-left: 25px;
+padding-bottom: 100px;
+width: 270px;
+height: 140px;
+margin-left: 385px;
+margin-top: -292px;
+color: dodgerblue;
+}
+
+.txtacl{
+background-color:rgb(238, 234, 234);
+font-size: 14px;
+padding-top: 35px;
+padding-left: 25px;
+padding-bottom: 100px;
+width: 270px;
+height: 140px;
+margin-left: 720px;
+margin-top: -292px;
+color: dodgerblue;
+
+}
+
+.txtres{
+background-color: rgb(166, 26, 200);
+color: white;
+font-size: 14px;
+padding-top: 35px;
+padding-left: 25px;
+padding-bottom: 100px;
+width: 270px;
+height: 140px;
+margin-left: 49px;
+
+}
+
+.txttak{
+background-color: rgb(15, 133, 168);
+color: white;
+font-size: 14px;
+padding-top: 35px;
+padding-left: 25px;
+padding-bottom: 100px;
+width: 270px;
+height: 140px;
+margin-left: 385px;
+margin-top: -292px;
+}
+
+
+.jantz{
+  margin-top: -292px;
+  padding:15px;
+  width: 270px;
+  height: auto;
+  margin-left: 700px;
+
+}
+
+.tab5{   
+       margin-left: 38px;
+       margin-top: 100px;
+       height: 130px;
+       width: 100%;
+}
+ ::placeholder{
+                   color: darkblue;
+                    text-align: center;
+                   font-size: 17px;
+}
+
+.tab5 input{
+
+             background-color: none;
+       
+             border-color:rgba(30, 143, 255, 0.411);
+              height: 50px;
+              width: 220px;
+              margin: 10px;
+              border-radius: 6px;
+
+
+    }
+   
+
+.tit1{ 
+          margin-top: 50px;
+        }
+
+.tit3{
+        margin-top:-405px ;
+        margin-left:270px ;
+    }
+        .tit5{
+               margin-top: -280px;
+               margin-left:530px ;
+            }
+.tit7{
+       margin-top:-305px ;
+       margin-left:800px ;
+}
+.tit4{
+       margin-top:10px ;
+       margin-left:270px;
+
+}
+.tit6
+     {
+         margin-top:10px ;
+         margin-left:530px;
+
+}
+.tit2{
+         margin-top:65px ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lastpg{
+   background-color: rgb(42, 46, 49);
+   padding-left: 52px;
+   padding-top: 12px;
+   padding-bottom: 200px;
+   color: white;
+   margin-left: 25px;
+  
+
+
+
+}
+
+.lastpg h4{
+      color: white;
+      padding-top: 80px;
+      padding-left: 120px;
+      width: 750px;
+      
+} 
